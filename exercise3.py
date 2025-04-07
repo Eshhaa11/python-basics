@@ -7,5 +7,6 @@ elif weather == "rainy":
 elif weather == "cold":
        print ("Wear a jacket 🧥")
 else:
-      
+     print("Stay safe out there!")
+     
 
