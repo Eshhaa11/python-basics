@@ -4,6 +4,8 @@ if weather == "sunny":
     print ("Wear Sunglasses 😎")
 elif weather == "rainy": 
       print ("Take an Umbrella ☔")
-elif weather == "colde":
+elif weather == "cold":
        print ("Wear a jacket 🧥")
+else:
+      
 
