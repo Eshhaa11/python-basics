@@ -1,1 +1,1 @@
-numbers_
+numbers_x = [10,20,30,40,10]
