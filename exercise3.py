@@ -1,1 +1,1 @@
- weather =input("What is the weather like today?")
+weather =input("What is the weather like today?")
